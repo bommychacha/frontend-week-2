@@ -41,6 +41,28 @@ html {
 
 *****************************************************************************
 */
+h1 {
+  margin-top: 60px;
+}
+img {
+  padding-right: 10px;
+}
+ ul li {
+  display: inline;
+  margin: 50px;
+}
+nav {
+  position: fixed;
+  background-color: white;
+  border: solid 1px gray;
+  width:100%;
+}
+body {
+  background-image: url("http://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Balloons-PNG/Balloons_Bunch_PNG_Clipart.png?m=1399672800");
+  color: white;
+  background-size: 1000px 1000px;
+  background-repeat:no-repeat;
+}
 
 
 
